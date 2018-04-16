@@ -1,2 +1,2 @@
-# random-numbers-reactNative
+# React Native: Random Numbers
 First react-native app
