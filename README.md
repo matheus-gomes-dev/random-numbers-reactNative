@@ -1,9 +1,9 @@
 # React Native: Random Numbers
 First react-native app
 
-![Alt Text](https://github.com/matheus-lima92/random-numbers-reactNative/blob/master/img/Screenshot_20180416-185806.png?raw=true)
+![Alt Text](https://github.com/matheus-lima92/random-numbers-reactNative/blob/master/img/Screenshot_20180416-185806.png?raw=true =180x320)
 
-![Alt Text](https://github.com/matheus-lima92/random-numbers-reactNative/blob/master/img/Screenshot_20180416-185815.png?raw=true)
+![Alt Text](https://github.com/matheus-lima92/random-numbers-reactNative/blob/master/img/Screenshot_20180416-185815.png?raw=true =180x320)
 
 # Installation
 
